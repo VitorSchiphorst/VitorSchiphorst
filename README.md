@@ -1,4 +1,4 @@
-### Eae me chamo Vitor Hugo Schiphorst!!
+### Eaa, me chamo Vitor Hugo Schiphorst!!
 
 <div align="center">
   <a href="https://github.com/VitorSchiphorst">
