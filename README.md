@@ -1,4 +1,6 @@
-### Eae, me chamo Vitor Hugo Schiphorst!!
+<h2>Eae, me chamo Vitor Hugo Schiphorst!!</h1>
+<p><B>-></B> 📚Estudante</p>
+<p><B>-></B> 👾IFSC Gaspar <I>(Curso Técnico Integrado em Informática)</I></p>
 
 <div align="center">
   <a href="https://github.com/VitorSchiphorst">
