@@ -1,5 +1,5 @@
 <h2>Eae, me chamo Vitor Hugo Schiphorst!!</h1>
-<p><B>-></B> 📚Estudante 3º ano do Ensino Médio</p>
+<p><B>-></B> Iniciando Faculdade Ciências da Computação na Unisociesc em Fevereiro</p>
 <p><B>-></B> 👾IFSC Gaspar <I>(Curso Técnico Integrado em Informática)</I></p>
 
 <div align="center">
